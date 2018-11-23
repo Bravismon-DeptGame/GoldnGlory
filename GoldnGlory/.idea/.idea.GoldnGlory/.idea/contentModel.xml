@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Arata Reito\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Arata Reito\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Arata Reito\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_GoldnGlory.26439129.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProject\GitHubUnity\GoldnGlory\GoldnGlory" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="DatasEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Datas.cs" t="Include" />
+          <e p="InputManager.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="Scenes.cs" t="Include" />
+          <e p="Story.cs" t="Include" />
+          <e p="SwipeMechanic.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GoldnGlory.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
