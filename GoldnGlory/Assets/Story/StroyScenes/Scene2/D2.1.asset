@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9158f1b6d51ec43ba611c4183ba91f, type: 3}
+  m_Name: D2.1
+  m_EditorClassIdentifier: 
+  codeDialog: D2.1
+  character: {fileID: 0}
+  nameChara: 
+  dialog: You are a student of an academy somewhere in Indonesia. As a normal student,
+    you lived your life with usual, boring daily life.
+  doubleChoice: 0
+  reject: 
+  accept: 
+  pointer:
+  - {fileID: 11400000, guid: ae8a59a1c82b07648ad49fec08f53ad0, type: 2}
+  parent: {fileID: 11400000, guid: 1a40d06dcd9cb9c4d919aed97908e656, type: 2}
+  scene: {fileID: 11400000, guid: 553e715abe1ee6d40a846b64f43bc007, type: 2}

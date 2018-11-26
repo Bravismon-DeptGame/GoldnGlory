@@ -9,15 +9,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b9158f1b6d51ec43ba611c4183ba91f, type: 3}
-  m_Name: D1
+  m_Name: D2.2
   m_EditorClassIdentifier: 
-  codeDialog: D1
+  codeDialog: D2.2
   character: {fileID: 0}
   nameChara: 
-  dialog: 
-  doubleChoice: 1
+  dialog: One day, after another day of your usual campus life, you are on your way
+    home. Near  a crossroad, you drop by a meat store that you usually stop by to
+    buy some meat for dinner.
+  doubleChoice: 0
   reject: 
   accept: 
   pointer:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 43257eccbb78f454ea16849056183904, type: 2}
+  parent: {fileID: 11400000, guid: ef8f4094b79168245acb8605364a8c19, type: 2}
+  scene: {fileID: 0}

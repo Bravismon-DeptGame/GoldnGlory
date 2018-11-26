@@ -14,4 +14,7 @@ public class Datas : ScriptableObject {
     [HideInInspector] public string reject;
     [HideInInspector] public string accept;
     [HideInInspector] public Datas[] pointer;
+
+    [HideInInspector] public Datas parent;
+    [HideInInspector] public Scenes scene;
 }

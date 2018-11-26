@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9158f1b6d51ec43ba611c4183ba91f, type: 3}
+  m_Name: D2.3
+  m_EditorClassIdentifier: 
+  codeDialog: D2.3
+  character: {fileID: 0}
+  nameChara: 
+  dialog: "When you caught in a chat with the shop owner, suddenly there\u2019s a
+    noise from the meat shop\u2019s warehouse. Before you realize what happened, a
+    cat slip through your feet and run towards the road with a meat in it\u2019s mouth."
+  doubleChoice: 0
+  reject: 
+  accept: 
+  pointer:
+  - {fileID: 11400000, guid: c949e3846aedd9d4dbeb022c96b0f81c, type: 2}
+  parent: {fileID: 11400000, guid: ae8a59a1c82b07648ad49fec08f53ad0, type: 2}
+  scene: {fileID: 0}

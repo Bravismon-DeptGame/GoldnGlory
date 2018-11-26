@@ -9,15 +9,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b9158f1b6d51ec43ba611c4183ba91f, type: 3}
-  m_Name: Datas
+  m_Name: D2.5
   m_EditorClassIdentifier: 
-  codeDialog: 
+  codeDialog: D2.5
   character: {fileID: 0}
-  name: 
-  dialog: 
+  nameChara: 
+  dialog: What will you do now?
   doubleChoice: 1
-  reject: 
-  accept: 
+  reject: Shout at the boy
+  accept: Try to save the boy
   pointer:
   - {fileID: 0}
   - {fileID: 0}
+  parent: {fileID: 11400000, guid: c949e3846aedd9d4dbeb022c96b0f81c, type: 2}
+  scene: {fileID: 0}

@@ -24,14 +24,20 @@
         </e>
         <e p="Editor" t="Include">
           <e p="DatasEditor.cs" t="Include" />
+          <e p="ScenesEditor.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="CardClick.cs" t="Include" />
           <e p="Datas.cs" t="Include" />
+          <e p="GameVariables.cs" t="Include" />
           <e p="InputManager.cs" t="Include" />
           <e p="Node.cs" t="Include" />
           <e p="Scenes.cs" t="Include" />
           <e p="Story.cs" t="Include" />
           <e p="SwipeMechanic.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="blueSheet.xml" t="Include" />
         </e>
       </e>
       <e p="GoldnGlory.sln" t="IncludeFlat" />
