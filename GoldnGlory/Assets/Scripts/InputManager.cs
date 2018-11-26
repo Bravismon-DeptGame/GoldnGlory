@@ -19,7 +19,7 @@ public class InputManager : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update () {
-		if (GameVariables.inChanging) return;
+		if (GameVariables.inChanging || GameVariables.comingSoon) return;
 		if (Story.instance.dialogActive.doubleChoice) DoubleLink();
 		else SingleLink();
 	}

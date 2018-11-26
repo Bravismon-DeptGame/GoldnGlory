@@ -29,6 +29,11 @@ public class Story : MonoBehaviour
             dialogActive = dialogActive.pointer[choice];
             teksStory.text = dialogActive.dialog;
             if (dialogActive.scene) active = dialogActive.scene;
-        } else comingSoon.SetActive(true);
+        }
+        else
+        {
+            GameVariables.comingSoon = true;
+            comingSoon.SetActive(true);
+        }
     }
 }

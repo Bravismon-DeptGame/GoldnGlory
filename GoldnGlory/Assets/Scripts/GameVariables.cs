@@ -6,4 +6,5 @@ public static class GameVariables
 {
 	public static bool swipe;
 	public static bool inChanging;
+	public static bool comingSoon;
 }
